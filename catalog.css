@@ -1,0 +1,7 @@
+
+
+.catalog {
+    padding-top: 30px;
+    background-color: var(--background);
+    min-height: calc(100vh - 56px);
+}
